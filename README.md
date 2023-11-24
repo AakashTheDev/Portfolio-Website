@@ -12,4 +12,4 @@ It is my personal portfolio website with HTML, CSS &amp; JS.
 - 😄 Pronouns: Aare
 - ⚡ Fun fact: I am also a Developer...
   
-Live URL: <a href="devaakashportfolio.w3spaces.com" target="_blank">devaakashportfolio.w3spaces.com</a>
+Live URL: <a href="https://devaakashportfolio.w3spaces.com" target="_blank">devaakashportfolio.w3spaces.com</a>
